@@ -1,6 +1,6 @@
-# FIRST REPO
+# Self-introduce
 
-This repo is to learn git.
+This file is to introduce myself.
 [See demo](https://www.google.com)
 
 ## Index
